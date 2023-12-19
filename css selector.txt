@@ -1,0 +1,18 @@
+class name:
+
+tagname.classname
+
+textarea.gLFyf
+
+
+Id:
+
+tagname#id
+
+textarea#APjFqb
+
+attribute and value
+
+tagname[attributename='value']
+
+textarea[name='q']

@@ -1,0 +1,171 @@
+1.what is programming?
+	Programming is the process of giving machines a set of instructions that describe how a program should be carried out.
+-------------------------------------------------------------------------------------------------------------------------------------
+2.what is java ?
+	Java is a widely-used programming language for coding web applications.
+
+	Java is a multi-platform, object-oriented.
+
+	Java is a statically-typed programming language. It means, all variables must be declared before its use. That is why we need to declare variable's type and name.
+--------------------------------------------------------------------------------------------------------------------------------------
+3.JKD  vs  JRE ?
+	JDK is for development purpose whereas JRE is for running the java programs. 
+	JDK and JRE both contains JVM so that we can run our java program. 
+
+	JVM is the heart of java programming language and provides platform independence.
+--------------------------------------------------------------------------------------------------------------------------------------
+4.what is DataTypes?
+	
+	Data types specify the different sizes and values that can be stored in the variable. There are two types of data types in Java
+
+	Primitive data types: The primitive data types include boolean, char, byte, short, int, long, float and double.
+	Non-primitive data types: The non-primitive data types include Classes, Interfaces, and Arrays.
+-----------------------------------------------------------------------------------------------------------------------------------
+5.Variables in java:
+	An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently. 
+	It increases developer productivity by combining capabilities such as software editing, building, testing, and packaging in an easy-to-use application.
+	Ex: eclipse,Netbeans
+------------------------------------------------------------------------------------------------------------------------------------6.What is .java and .class?
+	A Java class file is a file containing Java bytecode and having . class extension that can be executed by JVM. A Java class file is created by a Java compiler from . java files as a result of successful compilation. As we know that a single Java programming language source file.
+------------------------------------------------------------------------------------------------------------------------------------
+7.whats is jar in java ?
+	In simple words, a JAR file is a file that contains a compressed version of .class files, audio files, image files, or directories. We can imagine a .jar file as a zipped file(.zip) that is created by using WinZip software. Even, WinZip software can be used to extract the contents of a .jar . So you can use them for tasks such as lossless data compression, archiving, decompression, and archive unpacking. 
+	
+	A JAR (Java Archive) is a package file format typically used to aggregate many Java class files and associated metadata and resources (text, images, etc.) into one file to distribute application software or libraries on the Java platform. 
+-----------------------------------------------------------------------------------------------------------------------------------88.What is JAR file in Java?
+
+	In simple words, a JAR file is a file that contains a compressed version of .class files, audio files, image files, or directories. We can imagine a .jar file as a zipped file(.zip) that is created by using WinZip software. Even, WinZip software can be used to extract the contents of a .jar . So you can use them for tasks such as lossless data compression, archiving, decompression, and archive unpacking. 
+
+	A JAR (Java Archive) is a package file format typically used to aggregate many Java class files and associated metadata and resources (text, images, etc.) into one file to distribute application software or libraries on the Java platform. 
+------------------------------------------------------------------------------------------------------------------------------------
+9.whai is get value runtime in java ?
+	Scanner Class is used to Get the input from the user in the runtime.
+------------------------------------------------------------------------------------------------------------------------------------10.what is methods in java?
+	A method is a block of code which only runs when it is called. You can pass data, known as parameters, into a method. 	Methods are used to perform certain actions, and they are also known as functions
+
+11.Why use methods? 
+	To reuse code:[ define the code once, and use it many times]
+------------------------------------------------------------------------------------------------------------------------------------
+12.What is packages in java?
+	Package in Java is a mechanism to encapsulate a group of classes, sub packages and interfaces. 
+	
+	Packages can be considered as data encapsulation (or data-hiding).
+------------------------------------------------------------------------------------------------------------------------------------13.Packages  in java?
+	Package in Java is a mechanism to encapsulate a group of classes, sub packages and interfaces. 
+
+	Packages can be considered as data encapsulation (or data-hiding).
+
+	Making searching/locating and usage of classes, interfaces, enumerations and annotations easier
+
+	Preventing naming conflicts. For example there can be two classes with name Employee in two packages, college.staff.cse.Employee and college.staff.ee.Employee
+
+	Providing controlled access: protected and default have package level access control. A protected member is accessible by classes in the same package and its subclasses. A default member (without any access specifier) is accessible by classes in the same package only.
+------------------------------------------------------------------------------------------------------------------------------------
+14.Access modifier or [Access specifier]:
+	There are two types of modifiers in Java: access modifiers and non-access modifiers.
+	
+	The access modifiers in Java specifies the accessibility or scope of a field, method, constructor, or class. 
+
+	here are four types of Java access modifiers:
+
+Private: The access level of a private modifier is only within the class. It cannot be accessed from outside the class.
+
+Default: The access level of a default modifier is only within the package. It cannot be accessed from outside the package. If you do not specify any access level, it will be the default.
+
+Protected: The access level of a protected modifier is within the package and outside the package through child class. If you do not make the child class, it cannot be accessed from outside the package.
+
+Public: The access level of a public modifier is everywhere. It can be accessed from within the class, outside the class, within the package and outside the package.
+------------------------------------------------------------------------------------------------------------------------------------
+15.control statements (or) control flow:
+	Java compiler executes the code from top to bottom.
+
+	 Java provides statements that can be used to control the flow of Java code. Such statements are called control flow statements.It is one of the fundamental features of Java, which provides a smooth flow of program.
+	
+	Java provides three types of control flow statements.
+
+1.Decision Making statements
+	if statements-->simple-If,If-else,If-else Ladder,Nested If.
+	switch statement
+2.Loop statements
+	do while loop.
+	while loop.
+	for loop.
+	for-each loop.
+3.Jump statements
+	break statement.
+	continue statement.
+------------------------------------------------------------------------------------------------------------------------------------
+16.Keyword ?
+	 keyword is a reserved word that conveys a specific meaning to the Java compiler. 
+	
+	Keywords are special words that have a predefined meaning to the Java compiler. 
+	
+	They are reserved words and cannot be used as an identifier, function names, class names, etc in a programming language.
+------------------------------------------------------------------------------------------------------------------------------------17.Loop:
+	Loop is a feature used to execute a particular part of the program repeatedly if a given condition evaluates to be true. 
+
+18. Decision Making Statements:	
+
+	decision-making statements decide which statement to execute and when. Decision-making statements evaluate the Boolean expression and control the program flow depending upon the result of the condition provided. There are two types of decision-making statements in Java, i.e., If statement and switch statement.
+------------------------------------------------------------------------------------------------------------------------------------
+19.Array:
+	 array is an object of a dynamically generated class.
+
+	Array has its own Index position,Array index or subscript will start from 0
+	
+	Array is an object, which contains similar type of data in contiguous memory. 
+				
+------------------------------------------------------------------------------------------------------------------------------------20.What is ArrayList in  java/
+	array is an object of a dynamically generated class.
+	
+	The difference between a built-in array and an ArrayList in Java, is that the size of an array cannot be modified (if you want to add or remove elements to/from an array, you have to create a new one).
+
+	While elements can be added and removed from an ArrayList whenever you want. The syntax is also slightly different.
+
+
+				Syntax:ArrayList<String> Cars =new ArrayList<String>();
+------------------------------------------------------------------------------------------------------------------------------------
+21.what is OOPs Concept?
+	OOps in java is to improve code readability and reusability by defining a Java program efficiently. 
+
+	Oops concept are Abstraction,Encapsulation,Inheritance,Polymorphism.
+
+------------------------------------------------------------------------------------------------------------------------------------22.What is Non-Access Modifier?
+	Non-Access Modifier Limits the scope of Varialbe,Methods and Class Of the Java programming.
+	
+	Non-Access Modifier provides information about the Characteristics of Varialbes,Methods and class to the JVM.
+	
+	Type of the Non-Access Modifier are,
+	1.Static
+	2.final
+	3.abstract.
+	4.synchronized
+	5.native.
+	6.transient.
+	7.Volatile.
+------------------------------------------------------------------------------------------------------------------------------------23.What is constructor in java
+	
+
+ 	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

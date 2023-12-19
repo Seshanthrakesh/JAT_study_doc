@@ -1,0 +1,10 @@
+TEST CASE:
+	 
+Equivalence class Partitioning:
+	Equivalent Class Partitioning allows you to divide set of test condition into a partition which should be considered the same.This software testing method divides the domain of a program in to classes of data from which test cases should be designed.
+Ex: Input condtion are valid between 1 to 10 and 20 to 30.
+-10  to 0(invalid)   -2
+   1 to 10(valid)     3
+   11 to 19(invalid) 15
+   20 to 30(valid)   25
+   31 to --(invalid) 45

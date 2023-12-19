@@ -1,0 +1,18 @@
+  // Create a new Excel workbook
+        Workbook workbook = new XSSFWorkbook();
+        // Create a new sheet in the workbook
+        Sheet sheet = workbook.createSheet();
+        // Create a row in the sheet
+        Row row = sheet.createRow(0);
+        // Create a cell in the row and set its value to "Hello World"
+        Cell cell = row.createCell(0);
+        cell.setCellValue("Seshanth");
+        Cell cell1 = row.createCell(1);
+        cell1.setCellValue(" Universe");
+        // Save the workbook to a file
+        try {
+            FileOutputStream outputStream = new FileOutputStream("Sheet1.xlsx");
+            workbook.write(outputStream);
+            outputStream.close();
+        } catch (IOException e) {
+            e.printStackTrace();

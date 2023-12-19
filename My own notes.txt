@@ -1,0 +1,25 @@
+Bug: A deviation between acutual and Expected behaviour of the Application.
+Bug: Any deviation from the costumer's reuirements is called as Bug.
+
+Severity:
+A general Example is 
+
+	It is a measure, to indicate the impact of a bug/defect can have on the software product.
+Based on the threat it causes to the  product, Severity is categoriesed into below
+1.blocker.
+2.Critical.
+3.Major.
+4.Minor.
+
+Priority:
+	Bug priority refers to how urgently a bug needs to be fixed.
+ Levels of Bug Priority:
+-------------------------
+Low:Bug can be fixed at a later date.Other,more serious bugs take priority
+Medium:Bug can be Fixed in the normal course of development and testing.
+High:Bug must be resolved at the earliest as it affects the system adversely.
+
+Note:In most of the cases, severity and priority are directly proportional.
+
+That is High Severity and High Priority:
+========================================

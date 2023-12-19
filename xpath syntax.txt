@@ -1,0 +1,8 @@
+//tagname[text()='value']
+//tagname[contains(text(),'value)]
+//input[@value='Google Search'][2]
+
+
+
+//input[@value="I'm Feeling Lucky"]
+//a[contains(text(),)]

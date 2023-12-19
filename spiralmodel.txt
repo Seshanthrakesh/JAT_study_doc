@@ -1,0 +1,13 @@
+Spiral model:
+=============
+The Spiral Model is a software Developement Life Cycle(SDLC) model that provides a systematic and iterative approach to software development.It is Based on the idea of a spiral,with each iteration of the spiral,with each iteration of the spiral representing a complete software developement cycle,from Requiuremens gathering amnd analysis to design, Testing and maintainance.
+
+Disadvantages of Spiral Model:
+-------------------------------
+	->Complex: The Spiral Model is Much More complex than other SDLC Model.
+	->Expensive:Spiral Model is not suitable for small projects as it is expensive.
+	->Too much dependability on Risk Analysis:The successful completion of the project is very much dependent on Risk Analysis.Without very Highly Experienced experts,it is going to be a Failure to develop a project using this Model.
+	->Difficulty in Time Management: As the number of phases is unknown at the start of the project,time estimation is very difficult.
+	->Complexity: The spiral Model can be comlex,as it involves multiple iterations of the software developement process.
+	->Time-Consuming: The spiral Model can be time consuming,as it requires multiple evaluations and reveiws
+	->Resources Intensive: The spiral Model can resoure-intensive,as it requires a significant invesment in planning,risk Analysis, And evaluations

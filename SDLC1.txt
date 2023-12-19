@@ -1,0 +1,90 @@
+SDLC:
+=====
+	Software Developement Life Cycle is a process used by the software industry to design,develop and test high quality software.The SDLC aims to produce a high-quality software that meets or exceeds customer expections,reads completion within times and cost estimates.
+ The phases of SDLC Model
+	->Analysis
+	->Design
+	->Implementation
+	->Testing
+	->Evaluation
+Analysis:To provide a structure and organized approach to development
+         To Ensure
+Design:
+Implementation:
+Testing:
+Evaluation:
+
+
+
+methodologies in software testing 
+=================================
+1)Functional:
+smoke testing (BVT,BAT)-Is nothing but initail stage of testing,where as also called as Build Verifiaction Testing or Build Acceptance Testing 
+
+Sanitary Testing: In this testing,The testing happen in the production enviroment
+
+Regression Testing:This is nothing ,where all the test case of the entire requirements is tested
+
+Unit Testing: 
+
+Integration Testing: This is the combination of two testing modules where as smoke testing and regression Testing
+
+Feature Testing: Is nothing but, Additional or new feature adding and will be tested during the Feature Testing
+
+System Testing:In the System testing,where the entire testing is happened, with the help of regression Testing
+
+2)Non-Functional:
+Performance Testing:At any point of time,performance of the application should not degraded.ex takkal,
+Load Testing:testing the application under the thresold value for the prelong period of time
+Stress Testing:stressing the application under a thresold value 
+spike Testing:spiking the no of user,with the threold value of suddenly high, suddenly low while testing the spike Testing.
+Volume Testing:If the increase the value the application will not broke
+
+Bug: Any deviation from the costumer's reuirements is called as Bug.
+ 
+Bug Life cycle:
+---------------
+	->New: When  the new bug found by the Tester, then it will initialize as Status in'New'.
+
+	->Assigned:when the bugs is raised from the tester it will be assigned to the corresponding developer,who may exact issue happening with that bug
+
+	->Fixed: Is the status,where the bug is fixed without any Issue and filling the costumer's requirements
+
+	->Rejected: In the Rejected status,tester may be raised with the valid bug and that would be rejected by the developer,and is closed as Rejected
+
+
+
+Bug:Blocker,Critical,Major,Minor
+
+	Blocker: Even though the key feature of the application is not working is Called As Blocker
+	EX: Login is not working with corect username and password.
+
+	Critical: The bug should be sorted out immediately with the current bulit.
+	Ex:Login with workaround-withoutm case sensitve.
+
+	Major:The bug can be wait until the next bulit.
+	Ex:Login button with spelling.
+
+	Minor:The bug should be mostly from the deffered bug and these bug can be fixed with even in realese.
+	Ex:Such as very little change with fonts or something else.
+
+Priority:High,medium,Low:
+High priority: The bug Must be fixed immediately.
+Ex:login is not working properly.
+
+Medium: The bug can be wait until the next built.
+
+Low: The bug can be wait Until the Next Release.
+
+SDLC Model:
+	->Waterfall Model.
+	->Agile Model.
+	->Spiral Model.
+	->V-Model.
+Waterfall:
+	
+
+
+
+
+In this methodlogies,the phases of software developement,testing,design will be taken the process in sequence manner. it Cost effective and consumes more time to fix the bug when compare to agile methodlogies,In current state most of the companies are not using the waterfall since it is considered as not effective.
